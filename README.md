@@ -69,9 +69,8 @@ By creating this project, I learned:
 ## 🖼️ **Screenshots**
 
  *<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/9c61c5cb-0e96-4862-b85d-738bd57211f3" />*
+ 
  *<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/bc9daf56-8dc5-4a16-afff-1a282a1ce875" />*
-
-*(Just drag screenshots into the README once uploaded to GitHub)*
 
 ---
 
